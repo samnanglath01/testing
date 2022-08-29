@@ -45,7 +45,7 @@ public class Hello {
     }
     public int Startpoint()
     {
-        int start=0;
+        int start=1;
         for (int i = 0;i<vertices;i++){
             if (outV[i]-inV[i]==1)
             {
